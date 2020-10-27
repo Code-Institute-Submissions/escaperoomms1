@@ -27,3 +27,22 @@ header {
 .nav-link:hover {
     color: grey;
      }
+
+     /* ----------footer-------*/
+
+footer {
+    background-color: black;
+    height: 200px;
+    overflow: auto;
+}
+.locations {
+      font-family: 'Special Elite', cursive, sans-serif;
+      font-size: 15px;
+}
+
+.location-list {
+display: inline;
+color: green;
+}
+
+
