@@ -28,21 +28,93 @@ header {
     color: grey;
      }
 
+.booknow:hover {
+    color: yellow;
+}
      /* ----------footer-------*/
 
 footer {
     background-color: black;
-    height: 200px;
-    overflow: auto;
+    height: 180px;
+    overflow: hidden;
 }
+    /* ----------footer locations -------*/
 .locations {
       font-family: 'Special Elite', cursive, sans-serif;
       font-size: 15px;
+      color: white;
+      padding-top: 15px;
+text-align: left;
+padding-left: 30px;
 }
 
-.location-list {
-display: inline;
-color: green;
+
+.address-list {
+    padding-left: 30px;
+    text-align: center;
+    color: white;
 }
 
+.address-list a {
+    color: white;
+}
+
+.address-list a:hover {
+    color: grey;
+    text-decoration: none;
+    
+
+}
+.location-title {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+    /* ----------footer contact us -------*/
+.contact-us {
+    color: white;
+    font-family: 'Special Elite', cursive, sans-serif;
+    padding-top: 24px;
+}
+
+.contact-us h4 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.contact-us h5 {
+    font-size: 15px;
+    line-height: 2;
+    text-align: center;
+}
+
+    /* ----------footer socials-------*/
+
+.social-networks {
+      font-family: 'Special Elite', cursive, sans-serif;
+      font-size: 30px;
+      color: white;
+      padding-top: 24px;
+text-align: center;
+padding-left: 30px;
+}
+
+.social-title {
+    padding-bottom: 20px;
+}
+
+.social-list a{
+    color: white;
+}
+
+.social-list a:hover{
+    color: grey;
+}
+
+
+
+.background-pic {
+    overflow: hidden;
+}
 
