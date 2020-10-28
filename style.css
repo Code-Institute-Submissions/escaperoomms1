@@ -5,8 +5,6 @@ header {
     padding: 20px;
 }
 
-
-
 .logo {
     float: left;
     padding-left: 10px;
@@ -37,7 +35,7 @@ header {
 .booknow:hover {
     color: yellow;
 }
-     /* ----------footer-------*/
+     /* ----------footer main-------*/
 
 footer {
     background-color: black;
@@ -124,11 +122,13 @@ padding-left: 50px;
 }
 
 
+    /* ----------background-pic-------*/
 
 .background-pic {
     overflow: hidden;
 }
 
+    /* ----------media screens-------*/
 
 @media screen and (max-width: 800px){
     .logo{
@@ -144,6 +144,10 @@ padding-left: 50px;
         padding-top: 10px;
         text-align: center;
     }
+    .locations {
+        padding-left: 0;
+        padding-right: 0;
+    }
     .social-list {
         font-size: 20px;
     }
@@ -157,9 +161,6 @@ padding-left: 50px;
     padding-left: 3px;
     }
     
-    footer{
+    footer {
         height: 330px;
     }
-
-
-
