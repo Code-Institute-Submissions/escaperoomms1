@@ -5,6 +5,8 @@ header {
     padding: 20px;
 }
 
+
+
 .logo {
     float: left;
     padding-left: 10px;
@@ -12,6 +14,10 @@ header {
     color: white;
     font-family: 'Special Elite', cursive, sans-serif;
     font-size: 40px;
+}
+
+.nav {
+    text-align: center;
 }
 
 .nav-link {
@@ -35,8 +41,9 @@ header {
 
 footer {
     background-color: black;
-    height: 180px;
+    height: 200px;
     overflow: hidden;
+    text-align: center;
 }
     /* ----------footer locations -------*/
 .locations {
@@ -44,7 +51,7 @@ footer {
       font-size: 15px;
       color: white;
       padding-top: 15px;
-text-align: left;
+text-align: center;
 padding-left: 30px;
 }
 
@@ -53,6 +60,7 @@ padding-left: 30px;
     padding-left: 30px;
     text-align: center;
     color: white;
+    font-family: 'Syne Mono', monospace, sans-serif;
 }
 
 .address-list a {
@@ -81,27 +89,30 @@ padding-left: 30px;
 .contact-us h4 {
     font-size: 30px;
     text-align: center;
+    font-family: 'Special Elite', cursive, sans-serif;
 }
 
 .contact-us h5 {
     font-size: 15px;
     line-height: 2;
     text-align: center;
+    font-family: 'Syne Mono', monospace, sans-serif;
 }
 
     /* ----------footer socials-------*/
 
 .social-networks {
-      font-family: 'Special Elite', cursive, sans-serif;
+      font-family: 'Syne Mono', monospace, sans-serif;
       font-size: 30px;
       color: white;
       padding-top: 24px;
 text-align: center;
-padding-left: 30px;
+padding-left: 50px;
 }
 
 .social-title {
     padding-bottom: 20px;
+    font-family: 'Special Elite', cursive, sans-serif;
 }
 
 .social-list a{
@@ -117,4 +128,38 @@ padding-left: 30px;
 .background-pic {
     overflow: hidden;
 }
+
+
+@media screen and (max-width: 800px){
+    .logo{
+        text-align: center;
+    }
+    .nav-link i{
+        display: none;
+    }
+    .nav {
+        text-align: center;
+    }
+    .locations, .contact-us, .social-networks {
+        padding-top: 10px;
+        text-align: center;
+    }
+    .social-list {
+        font-size: 20px;
+    }
+    .social-title{
+        padding-bottom: 0;
+    }
+    .social-networks{
+        padding-left: 0;
+    }
+    .address-list {
+    padding-left: 3px;
+    }
+    
+    footer{
+        height: 330px;
+    }
+
+
 
