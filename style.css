@@ -174,13 +174,14 @@ font-weight: 50%;
     /* ----------reviews-------*/
 
 .review-section {
+    width: 100%;
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: black;
     color: white;
     text-align: center;
     font-family: 'Syne Mono', monospace, sans-serif;
-    overflow: hidden;
+    
 }
 
 .review-text {
@@ -191,26 +192,48 @@ font-weight: 50%;
     margin-left: 90px;
 }
 
+.review-text h2 a {
+    font-size: 30px;
+    padding-top: 3px;
+    color: white;
+    text-decoration: none;
+}
 .review-text h4 {
     font-size: 20px;
     letter-spacing: 4px;
 }
 
 .review-text h5 {
-    font-size: 9px;
+    font-size: 12px;
 }
 
 h3 i {
     color: gold;
-    font-size: 15px;
+    font-size: 25px;
 }
 
  /* ----------room overview on homepage-------*/
 
 .room-overview {
-    height: 100%;
-    position: relative;
-    overflow: hidden;
+    border: 300px solid black;
+}
+
+.carousel-caption h5 {
+    font-family: 'Special Elite', cursive, sans-serif;
+    font-size: 20px;
+    color: white;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.7);
+    letter-spacing: 4px;
+}
+
+.carousel-caption p {
+    font-family: 'Special Elite', cursive, sans-serif;
+    font-size: 15px;
+    color: white;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.7);
+    letter-spacing: 4px;
 }
 
     /* ----------media screens-------*/
