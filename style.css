@@ -42,6 +42,11 @@ footer {
     height: 200px;
     overflow: hidden;
     text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    border-top: solid 1px white;
 }
     /* ----------footer locations -------*/
 .locations {
@@ -126,6 +131,86 @@ padding-left: 50px;
 
 .background-pic {
     overflow: hidden;
+    position: relative;
+    height: 600px;
+    width: 100%;
+    background: url(https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/jigsaw-hero-1400x788.jpg) no-repeat  
+
+}
+
+#hero-image {
+    height: 600px;
+}
+
+    /* ----------slogan-------*/
+
+.slogan {
+    position: absolute;
+    color: white;
+    font-family: 'Special Elite', cursive, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+    padding-top: 30px;
+    padding-left: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    bottom: 30px;
+    right: 150px;
+}
+
+.slogan h3 a {
+color: white;
+text-decoration: none;
+font-weight: 50%;
+}
+
+.slogan h3 a:hover {
+    color: yellow;
+}
+
+    /* ----------reviews-------*/
+
+.review-section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Syne Mono', monospace, sans-serif;
+    overflow: hidden;
+}
+
+.review-text {
+    padding-top:5px;
+    background-color: rgba(37, 33, 33, 0.5);
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 90px;
+}
+
+.review-text h4 {
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+.review-text h5 {
+    font-size: 9px;
+}
+
+h3 i {
+    color: gold;
+    font-size: 15px;
+}
+
+ /* ----------room overview on homepage-------*/
+
+.room-overview {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
 }
 
     /* ----------media screens-------*/
@@ -163,4 +248,10 @@ padding-left: 50px;
     
     footer {
         height: 330px;
+    }
+
+    .slogan {
+        width: 100%;
+        right: 0px;
+        bottom: 1px;
     }
