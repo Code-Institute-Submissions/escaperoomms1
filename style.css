@@ -3,6 +3,7 @@
 header {
     background-color: black;
     padding: 20px;
+    border-bottom: solid 2px white;
 }
 
 .logo {
@@ -12,6 +13,7 @@ header {
     color: white;
     font-family: 'Special Elite', cursive, sans-serif;
     font-size: 40px;
+    letter-spacing: 5px;
 }
 
 .nav {
@@ -175,8 +177,7 @@ font-weight: 50%;
 
 .review-section {
     width: 100%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 100px;
     background-color: black;
     color: white;
     text-align: center;
@@ -215,7 +216,7 @@ h3 i {
  /* ----------room overview on homepage-------*/
 
 .room-overview {
-    border: 300px solid black;
+    border: 150px solid black;
 }
 
 .carousel-caption h5 {
@@ -235,6 +236,99 @@ h3 i {
     background-color: rgba(0, 0, 0, 0.7);
     letter-spacing: 4px;
 }
+
+ /* ----------room page-------*/
+
+.room-info {
+    background-color: black;
+    padding-bottom: 5px;
+}
+
+.rooms-title {
+    text-align: center;
+    color: white;
+    font-family: 'Special Elite', cursive, sans-serif;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    letter-spacing: 10px;
+
+}
+
+.room-shipwrecked {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    overflow: hidden;
+    background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/antiquepaper_1920x1234.jpg);
+    background-size: cover;
+}
+
+.room-name {
+     text-align: center;
+    color: white;
+    font-family: 'Special Elite', cursive, sans-serif;
+    font-size: 40px;
+    letter-spacing: 4px;
+    padding-bottom: 30px;
+}
+
+.left-video {
+    position: relative;
+    left: 150px;
+    float: left;
+    overflow: hidden;
+    
+}
+
+.right-video {
+    position: relative;
+    right: 150px;
+    float: right;
+    overflow: hidden;
+}
+
+.shipwrecked-text {
+    color: white;
+    position: relative;
+    overflow: hidden;
+    width: 30%;
+    left: 300px;
+    font-family: 'Syne Mono', monospace, sans-serif;
+    letter-spacing: 2px;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.saw-text {
+    color: white;
+    position: relative;
+    overflow: hidden;
+    width: 30%;
+    left: 200px;
+    font-family: 'Syne Mono', monospace, sans-serif;
+    letter-spacing: 2px;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.room-bionic {
+    padding-bottom: 100px;
+    padding-top: 30px;  
+    background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/futuretech1920x1234.jpg);
+    background-size: cover;
+}
+.room-saw {
+    padding-bottom: 50px;
+    padding-top: 30px;
+    background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_blue_1920x1234.jpg);
+    background-size: cover;
+}
+
+
 
     /* ----------media screens-------*/
 
@@ -277,4 +371,8 @@ h3 i {
         width: 100%;
         right: 0px;
         bottom: 1px;
+    }
+
+    .room-overview {
+        border: 0px;
     }
