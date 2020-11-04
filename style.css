@@ -328,6 +328,43 @@ h3 i {
     background-size: cover;
 }
 
+ /* ----------booking form-------*/
+
+.booking-title {
+     text-align: center;
+    color: white;
+    font-family: 'Special Elite', cursive, sans-serif;
+    font-size: 40px;
+    letter-spacing: 4px;
+    padding-bottom: 30px;
+    background-color: black;
+    padding-top: 30px;
+}
+form {
+    padding-top: 20px;
+    background-color: black;
+    padding-bottom: 50px;
+}
+
+.form-group {
+    width: 50%;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    left: 275px;;
+    position: relative;
+    font-family: 'Syne Mono', monospace, sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    }
+
+.form-check-label {
+    font-size: 15px;
+}
+.final-book {
+    font-size: 50px;
+    }
+
 
 
     /* ----------media screens-------*/
