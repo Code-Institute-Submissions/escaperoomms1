@@ -136,7 +136,7 @@ padding-left: 50px;
     position: relative;
     height: 600px;
     width: 100%;
-    background: url(https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/jigsaw-hero-1400x788.jpg) no-repeat  
+    background: url(https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/jigsaw-hero-1400x788.jpg) no-repeat;
 
 }
 
@@ -401,7 +401,8 @@ form {
     }
     
     footer {
-        height: 330px;
+        height: 350px;
+        overflow: auto;
     }
 
     .slogan {
@@ -411,5 +412,47 @@ form {
     }
 
     .room-overview {
-        border: 0px;
+        border: 10px solid black;
     }
+
+.review-section {
+    padding-top: 5px;
+}
+    .review-text {
+        margin-left: 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+.room-name {
+  
+    font-size: 30px;
+    letter-spacing: 2px;
+    
+}
+
+.left-video {
+    position: relative;
+    left: 0px;
+    }
+
+.right-video {
+    position: relative;
+    right: 0px;
+}
+
+.shipwrecked-text {
+    
+    width: 100%;
+    left: 0px;
+}
+
+.saw-text {
+   width: 100%;
+   left: 0px;
+}
+
+.form-group {
+    width: 90%;
+    left: 5%;
+}
