@@ -401,8 +401,8 @@ form {
     }
     
     footer {
-        height: 350px;
-        overflow: auto;
+        height: 370px;
+        overflow: hidden;
     }
 
     .slogan {
@@ -456,3 +456,4 @@ form {
     width: 90%;
     left: 5%;
 }
+
