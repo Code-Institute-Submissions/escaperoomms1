@@ -116,7 +116,11 @@ padding-left: 50px;
 }
 
 .social-title {
-    padding-bottom: 20px;
+    font-size: 30px;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 40px;
     font-family: 'Special Elite', cursive, sans-serif;
 }
 
@@ -369,7 +373,99 @@ form {
 
     /* ----------media screens-------*/
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 1050px){
+
+    .logo {
+        margin-top: 20px;
+    }
+    .locations, .contact-us, .social-networks {
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .contact-us {
+        margin-top: 10px;
+    }
+    .locations {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .social-list {
+        font-size: 20px;
+    }
+    .social-title{
+        padding-bottom: 0;
+        padding-left: 0px;
+    }
+    .social-networks{
+        padding-left: 0;
+    }
+    .address-list {
+    padding-left: 3px;
+    }
+    
+    footer {
+               overflow: hidden;
+    }
+
+    .slogan {
+        width: 100%;
+        right: 0px;
+        margin-bottom: 250px;
+    }
+
+    .room-overview {
+        border: 10px solid black;
+    }
+
+.review-section {
+    padding-top: 5px;
+}
+    .review-text {
+        margin-left: 65px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+.room-name {
+  
+    font-size: 30px;
+    letter-spacing: 2px;
+    
+}
+
+.left-video {
+    position: relative;
+    margin-bottom: 30px;
+    margin-left: 120px;
+    }
+
+.right-video {
+    position: relative;
+    margin-bottom: 30px;
+     margin-right: 120px;
+    
+}
+
+.shipwrecked-text {
+    
+    width: 100%;
+    left: 0px;
+    
+}
+
+.saw-text {
+   width: 100%;
+   left: 0px;
+   
+}
+
+.form-group {
+    width: 90%;
+    left: 5%;
+}
+
+@media screen and (max-width: 850px){
     .logo{
         text-align: center;
     }
@@ -392,6 +488,7 @@ form {
     }
     .social-title{
         padding-bottom: 0;
+        padding-left: 0px;
     }
     .social-networks{
         padding-left: 0;
@@ -408,7 +505,100 @@ form {
     .slogan {
         width: 100%;
         right: 0px;
-        bottom: 1px;
+        margin-bottom: 250px;
+    }
+
+    .room-overview {
+        border: 10px solid black;
+    }
+
+.review-section {
+    padding-top: 5px;
+}
+    .review-text {
+        margin-left: 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+.room-name {
+  
+    font-size: 30px;
+    letter-spacing: 2px;
+    
+}
+
+.left-video {
+    position: relative;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    }
+
+.right-video {
+    position: relative;
+    margin-bottom: 10px;
+    margin-right: 0px;
+       
+}
+
+.shipwrecked-text {
+    
+    width: 100%;
+    left: 0px;
+    
+}
+
+.saw-text {
+   width: 100%;
+   left: 0px;
+   
+}
+
+.form-group {
+    width: 90%;
+    left: 5%;
+}
+
+@media screen and (max-width: 600px){
+    .logo{
+        text-align: center;
+    }
+    .nav-link i{
+        display: none;
+    }
+    .nav {
+        text-align: center;
+    }
+    .locations, .contact-us, .social-networks {
+        padding-top: 10px;
+        text-align: center;
+    }
+    .locations {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .social-list {
+        font-size: 20px;
+    }
+    .social-title{
+        padding-bottom: 0;
+        padding-left: 0px;
+    }
+    .social-networks{
+        padding-left: 0;
+    }
+    .address-list {
+    padding-left: 3px;
+    }
+    
+    footer {
+        height: 370px;
+        overflow: hidden;
+    }
+
+    .slogan {
+        width: 100%;
+        top: 500px;
     }
 
     .room-overview {
