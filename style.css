@@ -341,6 +341,10 @@ h3 i {
     background-size: cover;
 }
 
+.room-text-yellow {
+    color: rgb(211, 211, 7);
+}
+
  /* ----------booking form-------*/
 
 .booking-title {
