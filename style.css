@@ -104,6 +104,15 @@ padding-left: 30px;
     font-family: 'Syne Mono', monospace, sans-serif;
 }
 
+.contact-us h5 a {
+    text-decoration: none;
+    color: white;
+}
+
+.contact-us h5 a:hover {
+    color: grey;
+}
+
     /* ----------footer socials-------*/
 
 .social-networks {
