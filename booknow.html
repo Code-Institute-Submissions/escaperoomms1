@@ -111,14 +111,14 @@
         </div>
     </div>
     <div class="form-group">
-    <label for="inputdate" class="col-form-label">Date</label>
+    <label for="inputdate" class="col-form-label">Date of booking</label>
     
-      <input type="date" class="form-control" id="inputdate" required>
+      <input type="date" class="form-control" id="inputdate" min="today" required>
     </div>
   
   <div class="form-group">
-    <label for="inputtime" class="col-form-label">Time</label>
-          <input type="time" class="form-control" id="inputtime" required>
+    <label for="inputtime" class="col-form-label">Time of booking (We are open 10am-9pm)</label>
+          <input type="time" class="form-control" id="inputtime" min="10:00" max="21:00"required>
     </div>
   
   <div class="form-group">
