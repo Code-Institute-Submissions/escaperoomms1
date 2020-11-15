@@ -141,6 +141,7 @@ padding-left: 50px;
     height: 600px;
     width: 100%;
     background: url(https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/jigsaw-hero-1400x788.jpg) no-repeat;
+    background-size: cover;
 
 }
 
@@ -163,7 +164,7 @@ padding-left: 50px;
     padding-top: 30px;
     padding-left: 10px;
     background-color: rgba(0, 0, 0, 0.7);
-    bottom: 30px;
+    bottom: 80px;
     right: 150px;
 }
 
@@ -179,6 +180,9 @@ font-weight: 50%;
 
     /* ----------reviews-------*/
 
+.container-fluid {
+    background-color: black;
+}
 .review-section {
     width: 100%;
     padding-top: 100px;
@@ -220,8 +224,8 @@ h3 i {
  /* ----------room overview on homepage-------*/
 
 .room-overview {
-    border: 150px solid black;
-}
+   border: 150px solid black; 
+    }
 
 .carousel-caption h5 {
     font-family: 'Special Elite', cursive, sans-serif;
@@ -273,7 +277,8 @@ h3 i {
     font-family: 'Special Elite', cursive, sans-serif;
     font-size: 40px;
     letter-spacing: 4px;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .left-video {
@@ -369,6 +374,11 @@ form {
     font-size: 50px;
     }
 
+.final-book:hover{
+    color: yellow;
+    }
+
+
 
 
     /* ----------media screens-------*/
@@ -411,12 +421,12 @@ form {
     .slogan {
         width: 100%;
         right: 0px;
-        margin-bottom: 250px;
+        margin-bottom: 50px;
     }
 
     .room-overview {
         border: 10px solid black;
-    }
+            }
 
 .review-section {
     padding-top: 5px;
@@ -427,6 +437,9 @@ form {
         padding-bottom: 10px;
 }
 
+h3 i {
+    font-size: 20px;
+}
 .room-name {
   
     font-size: 30px;
@@ -505,7 +518,7 @@ form {
     .slogan {
         width: 100%;
         right: 0px;
-        margin-bottom: 250px;
+        margin-bottom: 50px;
     }
 
     .room-overview {
@@ -558,7 +571,7 @@ form {
     width: 90%;
     left: 5%;
 }
-
+  
 @media screen and (max-width: 600px){
     .logo{
         text-align: center;
@@ -598,7 +611,7 @@ form {
 
     .slogan {
         width: 100%;
-        top: 500px;
+        top: 250px;
     }
 
     .room-overview {
@@ -612,6 +625,7 @@ form {
         margin-left: 0px;
         padding-top: 10px;
         padding-bottom: 10px;
+        
 }
 
 .room-name {
@@ -624,11 +638,13 @@ form {
 .left-video {
     position: relative;
     left: 0px;
+    width: 100%
     }
 
 .right-video {
     position: relative;
     right: 0px;
+    width: 100%;
 }
 
 .shipwrecked-text {
