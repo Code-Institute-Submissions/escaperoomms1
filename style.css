@@ -545,6 +545,7 @@ h3 i {
 
 .review-section {
     padding-top: 5px;
+    margin-left: 0px;
 }
     .review-text {
         margin-left: 0px;
@@ -638,6 +639,7 @@ h3 i {
 
 .review-section {
     padding-top: 5px;
+    margin-left: 0px;
 }
     .review-text {
         margin-left: 0px;
@@ -645,6 +647,8 @@ h3 i {
         padding-bottom: 10px;
         
 }
+
+
 
 .room-name {
   
