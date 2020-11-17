@@ -197,7 +197,7 @@ font-size: 35px;
     background-color: black;
 }
 .review-section {
-    width: 100%;
+    
     padding-top: 100px;
     background-color: black;
     color: white;
@@ -211,7 +211,7 @@ font-size: 35px;
     background-color: rgba(37, 33, 33, 0.5);
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 90px;
+    
 }
 
 .review-text h2 a {
@@ -227,6 +227,7 @@ font-size: 35px;
 
 .review-text h5 {
     font-size: 12px;
+    padding-bottom: 10px;
 }
 
 h3 i {
@@ -450,7 +451,7 @@ form {
     padding-top: 5px;
 }
     .review-text {
-        margin-left: 65px;
+        
         padding-top: 10px;
         padding-bottom: 10px;
 }
