@@ -74,9 +74,10 @@ Features:
 
 Home page – languages used – HTML, CSS, fontawesome https://fontawesome.com/)
 
+Home page wireframe (desktop)
 ![home wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/HomeWireFrame.jpg "Home wireframe")
 
-
+Home page wireframe (mobile)
 ![home wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/HomeWireFrameMobile.jpg "Home wireframe mobile")
 
 
@@ -101,17 +102,20 @@ Features to implement
 
 Mobile View – 
 
-![home mobile screenshot]()
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/home-mobile-screenshot.jpg
+![home mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/home-mobile-screenshot.jpg "home mobile screenshot")
+
 
 
 
 Room Page – languages used – HTML, CSS
 
+Room page desktop wireframe
 ![rooms wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/RoomsWireFrame.jpg "rooms wireframe")
 
+Room page mobile wireframe
 ![rooms wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/RoomsWireFrameMobile.jpg "rooms wireframe mobile")
 
+Room page mobile screenshot
 ![rooms mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Rooms-mobile-screenshot.jpg "rooms mobile screenshot")
 
 
@@ -123,16 +127,17 @@ Features
 4.	In mobile view, the video is above the text. 
 5.	Book Now – There is also a book now link in bright red (danger button from bootstrap) to again persuade the customer to book.
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/rooms-screenshot.png
+![rooms screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/rooms-screenshot.png "rooms screenshot")
+
 
 
  Booking page – languages used – HTML, CSS
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/booking-wireframe.jpg
+Booking page wireframe desktop
+![booking wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-wireframe.jpg "booking wireframe") 
 
-
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/booking-wireframe-mobile.jpg
-
+Booking page wireframe mobile
+![booking wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-wireframe-mobile.jpg "booking wireframe mobile")
 
 Features 
 1.	The booking form – the form is for the customer to fill out using bootstrap (https://getbootstrap.com/docs/4.5/components/forms/), which I used for efficiency. It asks for their details (name, email, and contact number). It also asks which room they would like to book, and the time and date. 
@@ -145,17 +150,20 @@ Features
 Features to implement 
 1.	I had the idea to add a sale bar just under the header, but I decided against it as I wanted to keep it simple.
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/booking-screenshot.png
+Booking page desktop
+![booking screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-screenshot.png "booking screenshot")
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/booking-name.png
+This image shows what happens when no text is entered into the name text box:
+![booking name](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-name.png "booking name")
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/booking-email.png
+This image shows what happens when an incorrect format is entered into the email text box:
+![booking email](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-email.png "booking email")
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/booking-time.png
+This image shows what happens when a time that is not in the branch opening times is selected:
+![booking time](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-time.png "booking time")
 
-
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/booking-mobile-screenshot.jpg
-
+Image below shows the mobile page for the booking:
+![booking mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-mobile-screenshot.jpg "booking mobile screenshot")
 
 Testing
 
