@@ -547,20 +547,18 @@ h3 i {
 .review-section {
     padding-top: 5px;
     
-}
-    .review-text {
-        
-        padding-top: 10px;
-        padding-bottom: 10px;
-        margin-bottom: 10px;
-}
+    }
+
+.review-text {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    }
 
 .room-name {
-  
     font-size: 30px;
     letter-spacing: 2px;
-    
-}
+    }
 
 .left-video {
     position: relative;
@@ -571,22 +569,18 @@ h3 i {
 .right-video {
     position: relative;
     margin-bottom: 10px;
-    margin-right: 0px;
-       
-}
+    margin-right: 0px;   
+    }
 
 .shipwrecked-text {
-    
     width: 100%;
-    left: 0px;
-    
-}
+    left: 0px; 
+    }
 
 .saw-text {
    width: 100%;
-   left: 0px;
-   
-}
+   left: 0px; 
+    }
 
 .form-group {
     width: 90%;
@@ -640,47 +634,46 @@ h3 i {
         border: 10px solid black;
     }
 
-.review-section {
-padding-top: 5px;
-}
+    .review-section {
+        padding-top: 5px;
+    }
 
-.review-text {
+    .review-text {
         padding-top: 10px;
         padding-bottom: 10px;
         margin-bottom: 10px;
-        
-}
-
-.room-name {
-      font-size: 30px;
-    letter-spacing: 2px;
     }
 
-.left-video {
-    position: relative;
-    left: 0px;
-    width: 100%
+    .room-name {
+        font-size: 30px;
+        letter-spacing: 2px;
     }
 
-.right-video {
-    position: relative;
-    right: 0px;
-    width: 100%;
-}
+    .left-video {
+        position: relative;
+        left: 0px;
+        width: 100%
+    }
 
-.shipwrecked-text {
+    .right-video {
+        position: relative;
+        right: 0px;
+        width: 100%;
+    }
+
+    .shipwrecked-text {
     
-    width: 100%;
-    left: 0px;
-}
+        width: 100%;
+        left: 0px;
+    }
 
-.saw-text {
-   width: 100%;
-   left: 0px;
-}
+    .saw-text {
+        width: 100%;
+        left: 0px;
+    }
 
-.form-group {
-    width: 90%;
-    left: 5%;
-}
+    .form-group {
+        width: 90%;
+        left: 5%;
+    }
 }
