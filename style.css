@@ -546,10 +546,10 @@ h3 i {
 
 .review-section {
     padding-top: 5px;
-    margin-left: 0px;
+    
 }
     .review-text {
-        margin-left: 0px;
+        
         padding-top: 10px;
         padding-bottom: 10px;
 }
@@ -639,11 +639,10 @@ h3 i {
     }
 
 .review-section {
-    padding-top: 5px;
-    margin-left: 0px;
+padding-top: 5px;
 }
-    .review-text {
-        margin-left: 0px;
+
+.review-text {
         padding-top: 10px;
         padding-bottom: 10px;
         
