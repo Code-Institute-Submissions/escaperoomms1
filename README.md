@@ -48,7 +48,8 @@ Features:
 2.	Nav Bar – I used bootstrap (https://getbootstrap.com/docs/4.5/components/navbar/) for this, for efficiency. Each button on the nav bar has a hover effect. The book now link, is a bootstrap danger button (https://getbootstrap.com/docs/4.5/components/buttons/) to stand out, with a hover effect.
 3.	In mobile view, the logo before each nav title is not displayed. The logo and nav-links each have their own line.  
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/Header-screenshot.png
+![header screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Header-screenshot.png "header screenshot")
+
 
 Footer – languages used – HTML, CSS, fontawesome (https://fontawesome.com/)
 Features:
@@ -56,7 +57,7 @@ Features:
 2.	Contact us – an email and telephone number are on the footer, so it is on each page, for easy access by the consumer. The email has a link to your email app, to make contact easy for the consumer. The phone number will also link to the consumers phone app.
 3.	Social links – each page must contain links to the business’s social media platforms, with a hover effect too.
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/Footer-screenshot.png
+![footer screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Footer-screenshot.png "Footer Screenshot")
 
 
 
@@ -73,19 +74,22 @@ https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/Footer-s
 
 Home page – languages used – HTML, CSS, fontawesome https://fontawesome.com/)
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/HomeWireFrame.jpg
+![home wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/HomeWireFrame.jpg "Home wireframe")
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/HomeWireFrameMobile.jpg
+
+![home wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/HomeWireFrameMobile.jpg "Home wireframe mobile")
+
 
 Features 
 1.	Background picture – An eye-catching background picture, with a horror themed escape room. I want to catch the consumers attention.
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/Slogan-screenshot.png
+![slogan screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Slogan-screenshot.png "slogan screenshot")
+
 
 2.	Slogan over the picture – Another link to the booking page here. An enticing question “Can you escape?”. This challenges the consumer to want to take on the challenge. In mobile view, this slogan covers the whole width of the screen. 
 3.	Reviews – As is very important with business, there needs to be reviews from consumers. This gives other customers something to go by. Each review has a link to trip advisor, for them to read more reviews. Also, a star rating out of 5, in gold to stand out. Bootstrap row and cols were used here, to easily respond to other devices. In mobile view, these are placed one on top of the other. 
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/Reviews-screenshot.png
+![reviews screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Reviews-screenshot.png "reviews screenshot")
 
 4.	Room overview – The homepage should have a simple view of the rooms available. This is done as a carousel using bootstrap (https://getbootstrap.com/docs/4.5/components/carousel/), which I used to save time, and for a professional look. It will contain a picture of what the room is about, the room name, and its difficulty level. 
 
