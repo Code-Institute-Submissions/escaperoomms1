@@ -93,24 +93,28 @@ Features
 
 4.	Room overview – The homepage should have a simple view of the rooms available. This is done as a carousel using bootstrap (https://getbootstrap.com/docs/4.5/components/carousel/), which I used to save time, and for a professional look. It will contain a picture of what the room is about, the room name, and its difficulty level. 
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/Carousel-screenshot.png
+![carousel screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Carousel-screenshot.png "carousel screenshot")
+
 
 Features to implement 
 1.	I had the idea to add a sale bar just under the header, but I decided against it as I wanted to keep it simple.
 
 Mobile View – 
+
+![home mobile screenshot]()
 https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/home-mobile-screenshot.jpg
 
 
 
 Room Page – languages used – HTML, CSS
 
+![rooms wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/RoomsWireFrame.jpg "rooms wireframe")
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/RoomsWireFrame.jpg
+![rooms wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/RoomsWireFrameMobile.jpg "rooms wireframe mobile")
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/RoomsWireFrameMobile.jpg
+![rooms mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Rooms-mobile-screenshot.jpg "rooms mobile screenshot")
 
-https://github.com/alisadiq91/escaperoomms1/blob/master/readme%20images/Rooms-mobile-screenshot.jpg
+
 
 Features
 1.	Room title – Each room name is in large text to stand out.
