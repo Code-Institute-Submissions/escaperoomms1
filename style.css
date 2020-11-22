@@ -280,7 +280,7 @@ h3 i {
 
 .room-shipwrecked {
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 100px;
     overflow: hidden;
     background-image: url(https://wallpaperset.com/w/full/a/d/1/178256.jpg);
     background-size: cover;
@@ -317,14 +317,15 @@ h3 i {
     position: relative;
     overflow: hidden;
     width: 30%;
-    left: 400px;
+   
+    left: 450px;
     font-family: 'Syne Mono', monospace, sans-serif;
     letter-spacing: 2px;
     font-size: 17px;
     line-height: 30px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
-}
+    }
 
 .saw-text {
     color: white;
@@ -347,7 +348,7 @@ h3 i {
     background-size: cover;
 }
 .room-saw {
-    padding-bottom: 50px;
+    padding-bottom: 100px;
     padding-top: 30px;
     background-image: url(https://wallpaperset.com/w/full/7/c/a/339227.jpg);
     background-size: cover;
