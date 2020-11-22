@@ -306,7 +306,7 @@ h3 i {
 
 .right-video {
     position: relative;
-    right: 210px;
+    right: 240px;
     float: right;
     overflow: hidden;
 }
@@ -323,6 +323,8 @@ h3 i {
     line-height: 30px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
+    padding-top: 5px;
+    padding-bottom: 5px;
     }
 
 .saw-text {
@@ -337,7 +339,8 @@ h3 i {
     line-height: 30px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
-    
+    padding-top: 5px;
+    padding-bottom: 5px;    
 }
 
 .room-bionic {
