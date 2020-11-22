@@ -473,13 +473,14 @@ h3 i {
 .left-video {
     position: relative;
     margin-bottom: 30px;
-    margin-left: 120px;
+    margin-left: 0px;
+    left: 280px;
     }
 
 .right-video {
     position: relative;
     margin-bottom: 30px;
-     margin-right: 120px;
+    
     
 }
 
@@ -568,12 +569,14 @@ h3 i {
     position: relative;
     margin-bottom: 10px;
     margin-left: 0px;
+    left: 150px;
     }
 
 .right-video {
     position: relative;
     margin-bottom: 10px;
-    margin-right: 0px;   
+    margin-right: 0px;
+    right: 150px;   
     }
 
 .shipwrecked-text {
