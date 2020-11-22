@@ -280,7 +280,7 @@ h3 i {
 
 .room-shipwrecked {
     padding-top: 30px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     overflow: hidden;
     background-image: url(https://wallpaperset.com/w/full/a/d/1/178256.jpg);
     background-size: cover;
@@ -298,7 +298,7 @@ h3 i {
 
 .left-video {
     position: relative;
-    left: 150px;
+    left: 210px;
     float: left;
     overflow: hidden;
     
@@ -306,10 +306,9 @@ h3 i {
 
 .right-video {
     position: relative;
-    right: 150px;
+    right: 210px;
     float: right;
     overflow: hidden;
-    margin-bottom: 10px;
 }
 
 .shipwrecked-text {
@@ -317,7 +316,6 @@ h3 i {
     position: relative;
     overflow: hidden;
     width: 30%;
-   
     left: 450px;
     font-family: 'Syne Mono', monospace, sans-serif;
     letter-spacing: 2px;
@@ -339,6 +337,7 @@ h3 i {
     line-height: 30px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
+    
 }
 
 .room-bionic {
