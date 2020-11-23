@@ -239,7 +239,7 @@ h3 i {
 
 
 .room-overview {
-   border: 150px solid black; 
+   border: 200px solid black; 
     }
 
 .carousel-caption h5 {
@@ -501,6 +501,7 @@ h3 i {
     width: 90%;
     left: 5%;
 }
+}
 
 @media screen and (max-width: 850px){
     .logo{
@@ -594,7 +595,7 @@ h3 i {
     left: 5%;
 }
 }
-  
+      
 @media screen and (max-width: 600px){
     .logo{
         text-align: center;
@@ -683,5 +684,4 @@ h3 i {
         width: 90%;
         left: 5%;
     }
-}
 }
