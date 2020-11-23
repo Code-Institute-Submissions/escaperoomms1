@@ -326,9 +326,7 @@ h3 i {
 .saw-text {
     color: white;
     position: relative;
-    overflow: hidden;
-    width: 70%;
-    
+    overflow: hidden;  
     font-family: 'Syne Mono', monospace, sans-serif;
     letter-spacing: 2px;
     font-size: 17px;
@@ -336,13 +334,15 @@ h3 i {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
     padding-top: 5px;
-    padding-bottom: 5px;    
+    padding-bottom: 5px; 
+    width: 70%;   
 }
 
 .room-bionic {
     
     padding-top: 30px;  
     padding-bottom: 10px;
+    overflow: hidden;
     background-image: url(https://wallpaperset.com/w/full/a/a/3/21499.jpg);
     background-size: cover;
     border-bottom: solid 2px white;
@@ -351,6 +351,7 @@ h3 i {
     
     padding-top: 30px;
     padding-bottom: 10px;
+    overflow: hidden;
     background-image: url(https://wallpaperset.com/w/full/7/c/a/339227.jpg);
     background-size: cover;
     border-bottom: solid 2px white;
@@ -486,19 +487,20 @@ h3 i {
 .right-video {
     position: relative;
     margin-bottom: 30px;
+    margin-left: 0px;
     
     
 }
 
 .shipwrecked-text {
     
-    width: 100%;
+    width: 90%;
     
     
 }
 
 .saw-text {
-   width: 100%;
+   width: 90%;
    
    
 }
