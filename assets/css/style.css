@@ -323,8 +323,8 @@ h3 i {
     line-height: 30px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     width: 70%;
     }
 
@@ -338,8 +338,8 @@ h3 i {
     line-height: 30px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
-    padding-top: 5px;
-    padding-bottom: 5px; 
+    padding-top: 30px;
+    padding-bottom: 30px; 
     width: 70%;   
 }
 
@@ -407,6 +407,7 @@ form {
 }
 .final-book {
     font-size: 50px;
+    width: 100%
     }
 
 .final-book:hover{
@@ -500,12 +501,14 @@ h3 i {
 .shipwrecked-text {
     
     width: 90%;
+    padding: 0px;
     
     
 }
 
 .saw-text {
    width: 90%;
+   padding: 0px;
    
    
 }
@@ -594,12 +597,12 @@ h3 i {
 
 .shipwrecked-text {
     width: 100%;
-    
+    padding: 0px;
     }
 
 .saw-text {
    width: 100%;
-    
+    padding: 0px;
     }
 
 .form-group {
@@ -684,12 +687,12 @@ h3 i {
     .shipwrecked-text {
     
         width: 100%;
-       
+       padding: 0px;
     }
 
     .saw-text {
         width: 100%;
-        
+        padding: 0px;
     }
 
     .form-group {
