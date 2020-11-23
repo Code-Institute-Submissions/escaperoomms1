@@ -48,7 +48,7 @@ Features:
 2.	Nav Bar – I used bootstrap (https://getbootstrap.com/docs/4.5/components/navbar/) for this, for efficiency. Each button on the nav bar has a hover effect. The book now link, is a bootstrap danger button (https://getbootstrap.com/docs/4.5/components/buttons/) to stand out, with a hover effect.
 3.	In mobile view, the logo before each nav title is not displayed. The logo and nav-links each have their own line.  
 
-![header screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Header-screenshot.png "header screenshot")
+![header screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/Header-screenshot.png "header screenshot")
 
 
 Footer – languages used – HTML, CSS, fontawesome (https://fontawesome.com/)
@@ -57,7 +57,7 @@ Features:
 2.	Contact us – an email and telephone number are on the footer, so it is on each page, for easy access by the consumer. The email has a link to your email app, to make contact easy for the consumer. The phone number will also link to the consumers phone app.
 3.	Social links – each page must contain links to the business’s social media platforms, with a hover effect too.
 
-![footer screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Footer-screenshot.png "Footer Screenshot")
+![footer screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/Footer-screenshot.png "Footer Screenshot")
 
 
 
@@ -75,26 +75,26 @@ Features:
 Home page – languages used – HTML, CSS, fontawesome https://fontawesome.com/)
 
 Home page wireframe (desktop)
-![home wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/HomeWireFrame.jpg "Home wireframe")
+![home wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/HomeWireFrame.jpg "Home wireframe")
 
 Home page wireframe (mobile)
-![home wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/HomeWireFrameMobile.jpg "Home wireframe mobile")
+![home wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/HomeWireFrameMobile.jpg "Home wireframe mobile")
 
 
 Features 
 1.	Background picture – An eye-catching background picture, with a horror themed escape room. I want to catch the consumers attention.
 
-![slogan screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Slogan-screenshot.png "slogan screenshot")
+![slogan screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/Slogan-screenshot.png "slogan screenshot")
 
 
 2.	Slogan over the picture – Another link to the booking page here. An enticing question “Can you escape?”. This challenges the consumer to want to take on the challenge. In mobile view, this slogan covers the whole width of the screen. 
 3.	Reviews – As is very important with business, there needs to be reviews from consumers. This gives other customers something to go by. Each review has a link to trip advisor, for them to read more reviews. Also, a star rating out of 5, in gold to stand out. Bootstrap row and cols were used here, to easily respond to other devices. In mobile view, these are placed one on top of the other. 
 
-![reviews screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Reviews-screenshot.png "reviews screenshot")
+![reviews screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/Reviews-screenshot.png "reviews screenshot")
 
 4.	Room overview – The homepage should have a simple view of the rooms available. This is done as a carousel using bootstrap (https://getbootstrap.com/docs/4.5/components/carousel/), which I used to save time, and for a professional look. It will contain a picture of what the room is about, the room name, and its difficulty level. 
 
-![carousel screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Carousel-screenshot.png "carousel screenshot")
+![carousel screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/Carousel-screenshot.png "carousel screenshot")
 
 
 Features to implement 
@@ -102,7 +102,7 @@ Features to implement
 
 Mobile View – 
 
-![home mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/home-mobile-screenshot.jpg "home mobile screenshot")
+![home mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/home-mobile-screenshot.jpg "home mobile screenshot")
 
 
 
@@ -110,13 +110,13 @@ Mobile View –
 Room Page – languages used – HTML, CSS
 
 Room page desktop wireframe
-![rooms wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/RoomsWireFrame.jpg "rooms wireframe")
+![rooms wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/RoomsWireFrame.jpg "rooms wireframe")
 
 Room page mobile wireframe
-![rooms wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/RoomsWireFrameMobile.jpg "rooms wireframe mobile")
+![rooms wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/RoomsWireFrameMobile.jpg "rooms wireframe mobile")
 
 Room page mobile screenshot
-![rooms mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/Rooms-mobile-screenshot.jpg "rooms mobile screenshot")
+![rooms mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/Rooms-mobile-screenshot.jpg "rooms mobile screenshot")
 
 
 
@@ -127,17 +127,17 @@ Features
 4.	In mobile view, the video is above the text. 
 5.	Book Now – There is also a book now link in bright red (danger button from bootstrap) to again persuade the customer to book.
 
-![rooms screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/rooms-screenshot.png "rooms screenshot")
+![rooms screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/rooms-screenshot.png "rooms screenshot")
 
 
 
  Booking page – languages used – HTML, CSS
 
 Booking page wireframe desktop
-![booking wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-wireframe.jpg "booking wireframe") 
+![booking wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-wireframe.jpg "booking wireframe") 
 
 Booking page wireframe mobile
-![booking wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-wireframe-mobile.jpg "booking wireframe mobile")
+![booking wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-wireframe-mobile.jpg "booking wireframe mobile")
 
 Features 
 1.	The booking form – the form is for the customer to fill out using bootstrap (https://getbootstrap.com/docs/4.5/components/forms/), which I used for efficiency. It asks for their details (name, email, and contact number). It also asks which room they would like to book, and the time and date. 
@@ -151,19 +151,19 @@ Features to implement
 1.	I had the idea to add a sale bar just under the header, but I decided against it as I wanted to keep it simple.
 
 Booking page desktop
-![booking screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-screenshot.png "booking screenshot")
+![booking screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-screenshot.png "booking screenshot")
 
 This image shows what happens when no text is entered into the name text box:
-![booking name](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-name.png "booking name")
+![booking name](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-name.png "booking name")
 
 This image shows what happens when an incorrect format is entered into the email text box:
-![booking email](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-email.png "booking email")
+![booking email](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-email.png "booking email")
 
 This image shows what happens when a time that is not in the branch opening times is selected:
-![booking time](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-time.png "booking time")
+![booking time](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-time.png "booking time")
 
-Image below shows the mobile page for the booking:
-![booking mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/readme%20images/booking-mobile-screenshot.jpg "booking mobile screenshot")
+Image shows the mobile page for the booking:
+![booking mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-mobile-screenshot.jpg "booking mobile screenshot")
 
 Testing
 
@@ -237,3 +237,4 @@ Room 2 – https://www.youtube.com/watch?v=R0wqtL_YWy8&feature=emb_logo
 Room 3 - https://www.youtube.com/watch?v=QXUg-_GA5HU&feature=emb_logo&ab_channel=clueQuest
 
 
+Thank you
