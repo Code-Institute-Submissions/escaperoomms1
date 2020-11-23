@@ -124,7 +124,8 @@ Features
 1.	Room title – Each room name is in large text to stand out.
 2.	Video – An embedded YouTube video with a trailer for each room, to show how exciting the room is. 
 3.	Background story – Aligned to the right of the video, a block of text with a background story of the room. This gives the customers the idea of what the room theme is. It also shows the difficulty level, for beginners or experts. It also shows recommended number of players, and price. These are separated by a line break and a brighter colour to have the text stand out. 
-4.	In mobile view, the video is above the text. 
+4.	In mobile view - the video is above the text
+5.  In mobile and tablet view - I used bootstrap flex behaviours to ensure the video div is placed above the text div on the second video on the page. On the desktop site, the text is before the video.
 5.	Book Now – There is also a book now link in bright red (danger button from bootstrap) to again persuade the customer to book.
 
 ![rooms screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/rooms-screenshot.png "rooms screenshot")

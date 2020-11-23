@@ -262,10 +262,7 @@ h3 i {
 
  /* ----------room page-------*/
 
-.room-info {
-    background-color: black;
-    padding-bottom: 5px;
-}
+
 
 .rooms-title {
     text-align: center;
@@ -275,15 +272,17 @@ h3 i {
     padding-top: 30px;
     padding-bottom: 30px;
     letter-spacing: 10px;
+    border-bottom: solid 2px white;
 
 }
 
 .room-shipwrecked {
     padding-top: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
     overflow: hidden;
     background-image: url(https://wallpaperset.com/w/full/a/d/1/178256.jpg);
     background-size: cover;
+    border-bottom: solid 2px white;
 }
 
 .room-name {
@@ -298,16 +297,14 @@ h3 i {
 
 .left-video {
     position: relative;
-    left: 210px;
-    float: left;
     overflow: hidden;
+    width: 80%;
     
 }
 
 .right-video {
     position: relative;
-    right: 285px;
-    float: right;
+    width: 80%;
     overflow: hidden;
 }
 
@@ -315,8 +312,6 @@ h3 i {
     color: white;
     position: relative;
     overflow: hidden;
-    width: 30%;
-    left: 450px;
     font-family: 'Syne Mono', monospace, sans-serif;
     letter-spacing: 2px;
     font-size: 17px;
@@ -325,14 +320,15 @@ h3 i {
     background-color: rgba(0, 0, 0, 0.8);
     padding-top: 5px;
     padding-bottom: 5px;
+    width: 70%;
     }
 
 .saw-text {
     color: white;
     position: relative;
     overflow: hidden;
-    width: 30%;
-    left: 200px;
+    width: 70%;
+    
     font-family: 'Syne Mono', monospace, sans-serif;
     letter-spacing: 2px;
     font-size: 17px;
@@ -344,20 +340,30 @@ h3 i {
 }
 
 .room-bionic {
-    padding-bottom: 100px;
+    
     padding-top: 30px;  
+    padding-bottom: 10px;
     background-image: url(https://wallpaperset.com/w/full/a/a/3/21499.jpg);
     background-size: cover;
+    border-bottom: solid 2px white;
 }
 .room-saw {
-    padding-bottom: 100px;
+    
     padding-top: 30px;
+    padding-bottom: 10px;
     background-image: url(https://wallpaperset.com/w/full/7/c/a/339227.jpg);
     background-size: cover;
+    border-bottom: solid 2px white;
 }
 
 .room-text-yellow {
     color: rgb(211, 211, 7);
+}
+
+.book-now-room {
+    border-top: solid 2px white;
+    border-bottom: solid 2px white;
+    margin-top: 10px;
 }
 
  /* ----------booking form-------*/
@@ -474,7 +480,7 @@ h3 i {
     position: relative;
     margin-bottom: 30px;
     margin-left: 0px;
-    left: 280px;
+    
     }
 
 .right-video {
@@ -487,13 +493,13 @@ h3 i {
 .shipwrecked-text {
     
     width: 100%;
-    left: 0px;
+    
     
 }
 
 .saw-text {
    width: 100%;
-   left: 0px;
+   
    
 }
 
@@ -570,24 +576,23 @@ h3 i {
     position: relative;
     margin-bottom: 10px;
     margin-left: 0px;
-    left: 150px;
-    }
+}
 
 .right-video {
     position: relative;
     margin-bottom: 10px;
     margin-right: 0px;
-    right: 150px;   
+      
     }
 
 .shipwrecked-text {
     width: 100%;
-    left: 0px; 
+    
     }
 
 .saw-text {
    width: 100%;
-   left: 0px; 
+    
     }
 
 .form-group {
@@ -659,25 +664,25 @@ h3 i {
 
     .left-video {
         position: relative;
-        left: 0px;
-        width: 100%
+        
+        width: 100%;
     }
 
     .right-video {
         position: relative;
-        right: 0px;
+        
         width: 100%;
     }
 
     .shipwrecked-text {
     
         width: 100%;
-        left: 0px;
+       
     }
 
     .saw-text {
         width: 100%;
-        left: 0px;
+        
     }
 
     .form-group {
