@@ -48,7 +48,7 @@ footer {
     bottom: 0;
     width: 100%;
     left: 0;
-    border-top: solid 1px white;
+    border-top: solid 2px white;
 }
     /* ----------footer locations -------*/
 .locations {
@@ -64,16 +64,16 @@ padding-left: 30px;
 .address-list {
     padding-left: 30px;
     text-align: center;
-    color: white;
+    color: grey;
     font-family: 'Syne Mono', monospace, sans-serif;
 }
 
 .address-list a {
-    color: white;
+    color: grey;
 }
 
 .address-list a:hover {
-    color: grey;
+    color: white;
     text-decoration: none;
     
 
@@ -106,11 +106,11 @@ padding-left: 30px;
 
 .contact-us h5 a {
     text-decoration: none;
-    color: white;
+    color: grey;
 }
 
 .contact-us h5 a:hover {
-    color: grey;
+    color: white;
 }
 
     /* ----------footer socials-------*/
@@ -134,11 +134,11 @@ padding-left: 50px;
 }
 
 .social-list a{
-    color: white;
+    color: grey;
 }
 
 .social-list a:hover{
-    color: grey;
+    color: white;
 }
 
 
@@ -151,6 +151,7 @@ padding-left: 50px;
     width: 100%;
     background: url(https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/jigsaw-hero-1400x788.jpg) no-repeat;
     background-size: cover;
+    border-bottom: 2px solid white;
 
 }
 
@@ -199,10 +200,12 @@ font-size: 35px;
 .review-section {
     
     padding-top: 100px;
+    padding-bottom: 100px;
     background-color: black;
     color: white;
     text-align: center;
     font-family: 'Syne Mono', monospace, sans-serif;
+    border-bottom: 2px solid white;
     
 }
 
@@ -240,7 +243,9 @@ h3 i {
 
 .room-overview {
    border: 200px solid black; 
-    }
+   border-top: 100px solid black; 
+   border-bottom: 100px solid black;
+       }
 
 .carousel-caption h5 {
     font-family: 'Special Elite', cursive, sans-serif;
