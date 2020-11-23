@@ -460,12 +460,16 @@ form {
         margin-bottom: 50px;
     }
 
+.rooms-title {
+       font-size: 30px;
+}
     .room-overview {
         border: 10px solid black;
             }
 
 .review-section {
     padding-top: 5px;
+    padding-bottom: 5px;
 }
     .review-text {
         
@@ -516,6 +520,10 @@ h3 i {
 .form-group {
     width: 90%;
     left: 5%;
+}
+
+.booking-title{
+    font-size: 30px;
 }
 }
 
@@ -568,7 +576,7 @@ h3 i {
 
 .review-section {
     padding-top: 5px;
-    
+    padding-bottom: 5px;
     }
 
 .review-text {
@@ -576,6 +584,10 @@ h3 i {
     padding-bottom: 10px;
     margin-bottom: 10px;
     }
+
+.rooms-title {
+       font-size: 30px;
+}
 
 .room-name {
     font-size: 30px;
@@ -608,6 +620,10 @@ h3 i {
 .form-group {
     width: 90%;
     left: 5%;
+}
+
+.booking-title{
+    font-size: 20px;
 }
 }
       
@@ -659,6 +675,7 @@ h3 i {
 
     .review-section {
         padding-top: 5px;
+        padding-bottom: 5px;
     }
 
     .review-text {
@@ -666,6 +683,10 @@ h3 i {
         padding-bottom: 10px;
         margin-bottom: 10px;
     }
+
+.rooms-title {
+       font-size: 30px;
+}
 
     .room-name {
         font-size: 30px;
@@ -699,4 +720,8 @@ h3 i {
         width: 90%;
         left: 5%;
     }
+
+    .booking-title{
+    font-size: 20px;
+}
 }
