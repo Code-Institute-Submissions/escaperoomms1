@@ -1,41 +1,46 @@
 Ali Sadiq MS1 - Escape Leeds
 
+[View the live project here.](https://alisadiq91.github.io/escaperoomms1/index.html)
+
 This is the first project of my software development career. I have decided tocreate a website for an Escape Room company named Escape Leeds.
 I will be using what I have learnt from modules covering HTML, CSS and the 
 bootstrap framework. I am going to be attempting to show a wide range
 of parts I have learnt, from forms to hovers. 
 
--UX-
 
 The website is for the company Escape Leeds. They are a west yorkshire based Escape Room business. They currently have 3 sites in Leeds, which each have 3 
 rooms available for players. 
 
-The site owner's goal is to atrract customers and convince them to complete a booking with their escape rooms.
 
-The website targets thrill seeeking individuals who are either new to the 
-escape room experience or have done them before.
+-UX-User Stories-
 
-My project is the best way for the site owner to achieve their goal as it is 
-simple but effective. 
+•	First Time Visitor Goals
 
-I have produced an eye-catching homepage, attracting the viewers attention. 
+1.	As a First Time Visitor, I want to be attracted to want to find out more, to learn what type of experience I can book.
 
-I also have encorporated customer reviews, to give new customers an idea as to how brilliant the experience will be. 
+2.	As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-A simple footer on each page providing the address to each location and an 
-external link showing the exact location on google maps, gives the consumer an easy way to be able to find how to get there.
+3.	As a First Time Visitor, I want to be able to see reviews from other customers to have an idea of whether I will have a good experience.
 
-The footer also has links to the social media pages of the site owner, which 
-encourages them to further explore the business.
+4.	As a First Time Visitor, I want to be able to access contact information easily and to locate the company’s social media. I also want to know the locations of the venues, to see if they are easily accessible to me.  
+
+•	Returning Visitor Goals
+
+1.	As a Returning Visitor, I want to find information about which rooms are available, and the cost of these.
+
+2.	As a Returning Visitor, I want to be able to book the room I want in a simple way.
+
+3.	As a Returning Visitor, I want to be able to be able to see a taster of each room available, as a video or pictures.
+
+•	Frequent User Goals
+
+1.	As a Frequent User, I want to check to see if there are any newly added rooms or challenges. 
+
 
 Having visited many escape rooms myself, in many different countries, I have 
 had exposure to a lot of websites.
 
 With me being a big fan of the rooms, I know exactly what the consumer wants, making it easy for me to provide this in a simple way.
-
-
-
-
 
 
 
@@ -165,48 +170,182 @@ This image shows what happens when a time that is not in the branch opening time
 Image shows the mobile page for the booking:
 ![booking mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-mobile-screenshot.jpg "booking mobile screenshot")
 
+Technologies
+
+Languages Used
+
+•	HTML5
+•	CSS3
+
+Frameworks, Libraries & Programs Used
+
+1.	Bootstrap:
+
+o	Bootstrap was used to assist with the responsiveness and styling of the website.
+
+2.	Google Fonts:
+
+o	Google fonts were used for both Syne Mono and Special Elite fonts.
+
+3.	Font Awesome:
+
+o	Font Awesome was used in the header and footer on each page, with social media links, and also images for home and rooms. It is also used on the room page in the title.
+
+4.	Git
+
+o	Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+5.	GitHub:
+
+o	GitHub is used to store the projects code after being pushed from Git.
+
 Testing
 
-I have used a group of 15 individuals that are of my target market. I have sent them the website, asked them to view it in laptop, mobile and tablet view and to give me feedback. I received fantastic feedback. 100% of the target group “loved” the website. Here is some of the feedback I received.
+HTML Validator
 
-Aim - to attract customers to the website.
+Home page - No errors - There is only warnings for empty headings which I felt appropriate to leave in, as they were edited in CSS for decorative purposes.
 
-Was this achieved? - One of the customers said, “This website would stand out, it is simple, effective and easy to use”.
+![HTML validator home page](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/validator-home.png "validator-home")
 
-Aim - to ensure the website had an eye-catching homepage. 
+Room page – No errors.
 
-Was this achieved? - 100% of the customers agreed that the homepage was eye-catching. The picture and slogan on the homepage, catches the attention of the consumer immediately. 
+![HTML validator room page](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/validator-room.png "validator-rooms")
 
-Aim - to make a simple, but effective website.
+Booking page – No errors.
 
-Was this achieved? - I wanted all my links to have a similar hover affect, to show consistency. The only hover that did not have the same affect was the book now links, which all had their own affect. All the visitors agreed that it was easy to navigate and to find what they were looking for. 
+![HTML validator booking page](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/validator-book.png "validator-booking")
 
-Aim - to give the visitor an experience of what the escape room is like. 
+CSS Validator – 2 errors but these were with the bootstrap model. The warnings were all also with the bootstrap model.
 
-Was this achieved? - I did this by showing reviews from people that have used the room, showing they loved it, with a link to trip advisor for more reviews. The room page also shows video trailers of the rooms, with a background story to give the visitor an idea of what the room is about and which one they would enjoy the most. 
+![CSS validator](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/validator-css.png "validator-css")
 
-Aim – to make it easy to contact the company.
+Aim 
 
-Was this achieved? - I made it very easy for the customer to find and contact the company, with external links to google maps, email, and phone app. Also, external links to each social media page at the footer on each page. 
+-	As a First Time Visitor, I want to be attracted to want to find out more, to learn what type of experience I can book.
 
-Aim – for the visitor to remain on the page.
+Result 
 
-Was this achieved? – I did this by having all external links open up to a new tab. 
+-	The homepage has an eye-catching image as soon as you load the page, with a slogan to attract the customers attention.
 
-Aim – make the website responsive to all devices.
+-	A carousel on the homepage shows a quick overview of the rooms with a picture and difficulty level of each. This also has a link to the rooms page.
 
-Was this achieved? I asked all the testers to view the website on laptop, mobile and tablets and in both portrait and landscape view. 100% of them agreed that it was responsive and were impressed with how certain aspects changed in mobile view. I have described above in each section; what changes occur in mobile view. 
+Aim 
+
+-	As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+
+Result 
+
+-	The header is available on each page, to easily cycle through the site to find the page you need.
+
+-	Any external links are made to open to a new tab to keep the user on our website.
+
+Aim 
+
+-	As a First Time Visitor, I want to be able to see reviews from other customers to have an idea of whether I will have a good experience.
+
+Result 
+
+-	Just under the slogan and main picture on the homepage, there are some reviews from customers that have used the escape room previously. It contains a name for a personal touch, as well as a comment and a star rating from 5.
+
+-	Each review contains a link to trip advisor for the customer to be able to go and read more great reviews.
+
+Aim
+
+-	As a First Time Visitor, I want to be able to access contact information easily and to locate the company’s social media. I also want to know the locations of the venues, to see if they are easily accessible to me.  
+
+Result 
+
+-	This information is all kept together in the footer on every page. On the left is each location with the address. In the middle there is an email and phone number to contact us. Then on the right are links to all our social media pages.
+
+-	Each address has an external link to google maps to make it easy to find.
+
+-	The email has an external link to the devices email application to easily send an email.
+
+-	The phone number has a link to the devices phone application to make it easy to make a quick phone call.
+
+-	Each social media link also has a link to the appropriate website.
+
+Aim
+
+-	As a Returning Visitor, I want to find information about which rooms are available, and the cost of these.
+
+Result
+
+-	There is a quick overview of the rooms on the homepage, in the form of a carousel. It contains the room name, difficulty level and an image of what the room is like.
+
+-	The room page contains all information needed regarding the rooms available. There is a teaser video for each room embedded to play in the webpage.  To the right of this is a background story of the room, giving the customer a taster of what the room is about. This also contains a recommended team size, price per person and difficulty level. 
+
+Aim
+
+-	As a Returning Visitor, I want to be able to book the room I want in a simple way.
+
+Result
+
+-	Each webpage has multiple links to the book now page to keep reminding the customer to book.
+
+-	The booking page has a simple form to fill out, and the same submit button as other book now links, for consistency.
+
+-	By setting limits and required attributes, it has been made easy to not make a mistake on the form. 
+
+Aim
+
+-	As a Returning Visitor, I want to be able to be able to see a taster of each room available, as a video or pictures.
+
+Result
+
+-	This is explained above as each room has a picture on the homepage in the carousel, and a trailer video on the room page.
+
+Aim
+
+-	As a Frequent User, I want to check to see if there are any newly added rooms or challenges. 
+
+Result 
+
+-	Each new room added will be placed to the top of the room page, with a font awesome icon to show it is new.
+
+-	The home page will also have a link to this new room, again with a font awesome icon. 
+
+Further Testing
+
+•	The Website was tested on Google Chrome, Internet Explorer, Mozilla Firefox and Safari browsers.
+
+•	The website was viewed on a variety of devices such as Desktop, Laptop, iPhone11 (portrait and landscape), iPad (portrait and landscape), Samsung Galaxy S10 (portrait and landscape) and other android devices.
+
+•	I used www.responsinator.com to make sure it responded to all devices. 
+
+•	Each link was clicked various time on each page and each device to ensure they were all working correctly.
+
+•	I asked 10 family and friends to use the website and look for any errors or bugs. I asked them all to view them on their laptop, phone and tablet. I also asked them to try all the links, and to fill the form out with errors to see if it allowed them to submit. 
+
 
 Deployment
+
+I used GitPod to write my code.
 
 I regularly used Git Push to deploy this page to GitHub. Whenever I completed a page, fixed an error, or finished coding for the day, I would git commit and then git push.
 
 I used the information in this webpage to create my GitHub pages site. https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site
 
-I used GitPod to write my code. 
+The link above gave me the following steps. 
+
+1.	Log in to GitHub and locate the GitHub Repository
+
+2.	At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+
+3.	Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+4.	Under "Source", click the dropdown called "None" and select "Master Branch".
+
+5.	The page will automatically refresh.
+
+6.	Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+
 
 
 Content
+
+All content was written by the coder apart from those listed below and those pulled from bootstrap, for the header and carousel. 
 
 Part of the text for the background story for the room “Shipwrecked” was taken from Wikipedia link https://en.wikipedia.org/wiki/Calico_Jack
 	
@@ -237,4 +376,8 @@ Room 2 – https://www.youtube.com/watch?v=R0wqtL_YWy8&feature=emb_logo
 Room 3 - https://www.youtube.com/watch?v=QXUg-_GA5HU&feature=emb_logo&ab_channel=clueQuest
 
 
-Thank you
+Acknowledgements
+
+- My Mentor for continuous helpful feedback.
+
+Thank you for taking the time to enjoy my first project as a web developer. I enjoyed the process, from planning the wireframes to putting the final touches to it! I hope you enjoy the website and I look forward to hearing your feedback!
