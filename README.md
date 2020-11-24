@@ -43,6 +43,15 @@ had exposure to a lot of websites.
 With me being a big fan of the rooms, I know exactly what the consumer wants, making it easy for me to provide this in a simple way.
 
 
+Design
+
+•	Colour Scheme
+
+    -	The two main colours used black and white.
+
+•	Typography
+
+    -	The Special Elite font is the font used for the page titles, or any headings. The Syne Mono font is the other main font used; this is used for any text under headings. Sans Serif is used as the fallback font if for any reason the above fonts are not functioning. A horror/mystery theme is set which these two fonts help achieve. They are also both clear and easy to read.
 
 
 ---WIREFRAMES---
