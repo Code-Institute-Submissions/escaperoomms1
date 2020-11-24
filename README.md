@@ -12,7 +12,7 @@ The website is for the company Escape Leeds. They are a west yorkshire based Esc
 rooms available for players. 
 
 
--UX-User Stories-
+--- UX --- USER STORIES ---
 
 •	First Time Visitor Goals
 
@@ -31,7 +31,7 @@ rooms available for players.
 2.	As a Returning Visitor, I want to be able to book the room I want in a simple way.
 
 3.	As a Returning Visitor, I want to be able to be able to see a taster of each room available, as a video or pictures.
-
+ 
 •	Frequent User Goals
 
 1.	As a Frequent User, I want to check to see if there are any newly added rooms or challenges. 
@@ -43,21 +43,23 @@ had exposure to a lot of websites.
 With me being a big fan of the rooms, I know exactly what the consumer wants, making it easy for me to provide this in a simple way.
 
 
-Design
+--- DESIGN ---
 
-•	Colour Scheme
+Colour Scheme
 
-    -	The two main colours used black and white.
+ - The two main colours used black and white.
 
-•	Typography
+Typography
 
-    -	The Special Elite font is the font used for the page titles, or any headings. The Syne Mono font is the other main font used; this is used for any text under headings. Sans Serif is used as the fallback font if for any reason the above fonts are not functioning. A horror/mystery theme is set which these two fonts help achieve. They are also both clear and easy to read.
+- The Special Elite font is the font used for the page titles, or any headings. The Syne Mono font is the other main font used; this is used for any text under headings. Sans Serif is used as the fallback font if for any reason the above fonts are not functioning. A horror/mystery theme is set which these two fonts help achieve. They are also both clear and easy to read.
 
 
----WIREFRAMES---
+--- WIREFRAMES AND FEATURES ---
 
 Header – languages used – HTML, CSS, Font Awesome https://fontawesome.com/
+
 Features:
+
 1.	The logo – this is of course in the header, so it is on every page. It stays on the left side of the header.
 2.	Nav Bar – I used bootstrap (https://getbootstrap.com/docs/4.5/components/navbar/) for this, for efficiency. Each button on the nav bar has a hover effect. The book now link, is a bootstrap danger button (https://getbootstrap.com/docs/4.5/components/buttons/) to stand out, with a hover effect.
 3.	In mobile view, the logo before each nav title is not displayed. The logo and nav-links each have their own line.  
@@ -66,7 +68,9 @@ Features:
 
 
 Footer – languages used – HTML, CSS, fontawesome (https://fontawesome.com/)
+
 Features:
+
 1.	The Locations – the escape room has 3 locations that can be booked. Each location has the full address. When clicked, the link opens a new page to google maps with the location. This makes it easy for the consumer to find their way. In mobile view, the full location is not displayed, only the location name. 
 2.	Contact us – an email and telephone number are on the footer, so it is on each page, for easy access by the consumer. The email has a link to your email app, to make contact easy for the consumer. The phone number will also link to the consumers phone app.
 3.	Social links – each page must contain links to the business’s social media platforms, with a hover effect too.
@@ -89,13 +93,16 @@ Features:
 Home page – languages used – HTML, CSS, fontawesome https://fontawesome.com/)
 
 Home page wireframe (desktop)
+
 ![home wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/HomeWireFrame.jpg "Home wireframe")
 
 Home page wireframe (mobile)
+
 ![home wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/HomeWireFrameMobile.jpg "Home wireframe mobile")
 
 
 Features 
+
 1.	Background picture – An eye-catching background picture, with a horror themed escape room. I want to catch the consumers attention.
 
 ![slogan screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/Slogan-screenshot.png "slogan screenshot")
@@ -112,7 +119,9 @@ Features
 
 
 Features to implement 
+
 1.	I had the idea to add a sale bar just under the header, but I decided against it as I wanted to keep it simple.
+2.  When there are new rooms to advertise, this can be under the header to show frequent users. 
 
 Mobile View – 
 
@@ -124,17 +133,21 @@ Mobile View –
 Room Page – languages used – HTML, CSS
 
 Room page desktop wireframe
+
 ![rooms wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/RoomsWireFrame.jpg "rooms wireframe")
 
 Room page mobile wireframe
+
 ![rooms wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/RoomsWireFrameMobile.jpg "rooms wireframe mobile")
 
 Room page mobile screenshot
+
 ![rooms mobile screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/Rooms-mobile-screenshot.jpg "rooms mobile screenshot")
 
 
 
 Features
+
 1.	Room title – Each room name is in large text to stand out.
 2.	Video – An embedded YouTube video with a trailer for each room, to show how exciting the room is. 
 3.	Background story – Aligned to the right of the video, a block of text with a background story of the room. This gives the customers the idea of what the room theme is. It also shows the difficulty level, for beginners or experts. It also shows recommended number of players, and price. These are separated by a line break and a brighter colour to have the text stand out. 
@@ -145,24 +158,25 @@ Features
 
 
 
- Booking page – languages used – HTML, CSS
+Booking page – languages used – HTML, CSS
 
 Booking page wireframe desktop
+
 ![booking wireframe](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-wireframe.jpg "booking wireframe") 
 
 Booking page wireframe mobile
+
 ![booking wireframe mobile](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-wireframe-mobile.jpg "booking wireframe mobile")
 
 Features 
+
 1.	The booking form – the form is for the customer to fill out using bootstrap (https://getbootstrap.com/docs/4.5/components/forms/), which I used for efficiency. It asks for their details (name, email, and contact number). It also asks which room they would like to book, and the time and date. 
 2.	Book Now – The submit button for the form is in bright red (danger button from bootstrap mentioned above). I have kept each book now link the same button, to keep it simple and effective.
 3.	I have set certain requirements for the form:
+
 •	Each field is required – it will not let you submit without filling each field
 •	Email must have the correct format
 •	The time of booking is only allowed to be selected during opening hours. 
-
-Features to implement 
-1.	I had the idea to add a sale bar just under the header, but I decided against it as I wanted to keep it simple.
 
 Booking page desktop
 ![booking screenshot](https://raw.githubusercontent.com/alisadiq91/escaperoomms1/master/assets/images/booking-screenshot.png "booking screenshot")
@@ -388,5 +402,7 @@ Room 3 - https://www.youtube.com/watch?v=QXUg-_GA5HU&feature=emb_logo&ab_channel
 Acknowledgements
 
 - My Mentor for continuous helpful feedback.
+
+Thank you!!
 
 Thank you for taking the time to enjoy my first project as a web developer. I enjoyed the process, from planning the wireframes to putting the final touches to it! I hope you enjoy the website and I look forward to hearing your feedback!
